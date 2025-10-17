@@ -1,0 +1,41 @@
+title: David Horne
+email: your-email@example.com
+description: >-
+  Welcome to my personal website! I'm David Horne, and this is where I share my 
+  projects, thoughts, and experiences in software development.
+baseurl: ""
+url: "https://davidhorne123.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme settings
+theme: minima
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
+
+# Social links
+github_username: DavidHorne123
+linkedin_username: davidhorne
+# twitter_username: yourusername
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git

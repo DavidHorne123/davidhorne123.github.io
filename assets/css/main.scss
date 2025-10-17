@@ -1,0 +1,122 @@
+---
+---
+
+@import "minima";
+
+// Custom styles
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --background-color: #ffffff;
+    --text-color: #212529;
+}
+
+body {
+    color: var(--text-color);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+// Header styles
+.site-header {
+    border-bottom: 1px solid #e8e8e8;
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+}
+
+.site-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-decoration: none;
+    
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.site-nav {
+    float: right;
+    
+    .page-link {
+        color: var(--text-color);
+        margin-left: 1.5rem;
+        
+        &:hover {
+            color: var(--primary-color);
+        }
+    }
+}
+
+// Home page styles
+.hero {
+    text-align: center;
+    padding: 4rem 0;
+    
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.project-card {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+    transition: transform 0.2s;
+    
+    &:hover {
+        transform: translateY(-5px);
+    }
+}
+
+// Footer styles
+.site-footer {
+    background: #f8f9fa;
+    padding: 2rem 0;
+    margin-top: 4rem;
+    
+    .social-links {
+        margin-bottom: 1rem;
+        
+        a {
+            margin-right: 1rem;
+            color: var(--secondary-color);
+            
+            &:hover {
+                color: var(--primary-color);
+            }
+        }
+    }
+}
+
+// Responsive design
+@media screen and (max-width: 600px) {
+    .site-nav {
+        float: none;
+        margin-top: 1rem;
+        text-align: center;
+        
+        .page-link {
+            display: block;
+            margin: 0.5rem 0;
+        }
+    }
+    
+    .hero h1 {
+        font-size: 2rem;
+    }
+}
