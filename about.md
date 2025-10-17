@@ -10,11 +10,9 @@ I'm David Horne, a passionate software developer with a keen interest in buildin
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Web Technologies**: HTML5, CSS3, React, Node.js
-- **Database Systems**: PostgreSQL, MongoDB
-- **Tools & Platforms**: Git, Docker, AWS
-- **Best Practices**: Test-Driven Development, Agile Methodologies
+- **Programming Languages**:  Java, C++
+- **Tools & Platforms**: Git
+
 
 ## Experience
 
@@ -28,7 +26,7 @@ I have worked on various projects ranging from web applications to system archit
 
 ## Education
 
-- Bachelor's Degree in Computer Science
+- Associate's Degree in Computer Science
 - Various professional certifications in modern technologies
 
 ## Interests

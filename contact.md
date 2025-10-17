@@ -10,8 +10,8 @@ I'm always interested in hearing about new projects, opportunities, or just conn
 
 ## Contact Information
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [David Horne](https://linkedin.com/in/davidhorne)
+- **Email**: [dhorne7000@gmail.com](mailto:dhorne7000@gmail.com)
+- **LinkedIn**: [David Horne](https://linkedin.com/in/davidhorne2025)
 - **GitHub**: [@DavidHorne123](https://github.com/DavidHorne123)
 
 ## Let's Connect
