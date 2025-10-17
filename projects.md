@@ -10,22 +10,16 @@ Here are some of the key projects I've worked on. Each demonstrates different as
 
 ## Featured Projects
 
-### Project Management System
-A comprehensive project management tool built with React and Node.js.
-- **Technologies**: React, Node.js, MongoDB
-- **Features**: Task tracking, team collaboration, real-time updates
+### Chess 
+A comprehensive project management tool built with Java and via Eclipse.
+- **Technologies**: Java, Github, Eclipse
+- **Features**: Problem Solving, Debugging, Algorithm Creation
 - [View Project →](https://github.com/DavidHorne123)
 
-### Data Analysis Platform
-A platform for analyzing and visualizing large datasets.
-- **Technologies**: Python, Pandas, Flask, D3.js
-- **Features**: Custom visualizations, data processing, API integration
-- [View Project →](https://github.com/DavidHorne123)
-
-### E-commerce Solution
-A scalable e-commerce platform built with modern web technologies.
-- **Technologies**: Next.js, PostgreSQL, Stripe API
-- **Features**: Product management, payment processing, order tracking
+### Tic-Tac-Toe
+A comprehensive project built with Java, Maven, and IntelliJ.
+- **Technologies**: Java, Github, IntelliJ
+- **Features**: Problem Solving, interactive game board, player turns
 - [View Project →](https://github.com/DavidHorne123)
 
 ## Open Source Contributions
