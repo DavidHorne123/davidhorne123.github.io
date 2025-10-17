@@ -14,13 +14,13 @@ Here are some of the key projects I've worked on. Each demonstrates different as
 A comprehensive project management tool built with Java and via Eclipse.
 - **Technologies**: Java, Github, Eclipse
 - **Features**: Problem Solving, Debugging, Algorithm Creation
-- [View Project →](https://github.com/DavidHorne123)
+- [View Project →](https://github.com/DavidHorne123/Chess)
 
 ### Tic-Tac-Toe
 A comprehensive project built with Java, Maven, and IntelliJ.
 - **Technologies**: Java, Github, IntelliJ
 - **Features**: Problem Solving, interactive game board, player turns
-- [View Project →](https://github.com/DavidHorne123)
+- [View Project →](https://github.com/DavidHorne123/TicTacToe)
 
 ## Open Source Contributions
 
